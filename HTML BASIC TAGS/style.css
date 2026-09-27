@@ -1,0 +1,62 @@
+body {
+  background-image: url("images/gradienthubs-554.png");
+  background-repeat: no-repeat; /* Prevents tiling */
+  background-size: cover;
+  /* background-position: center; /* Centers the image */
+}
+#title {
+  color: rgb(215, 215, 178);
+  font-size: 42px;
+  font-family: "Times New Roman", Times, serif;
+  text-align: center;
+  text-decoration: none;
+}
+p {
+  color: rgb(202, 230, 202);
+  font-size: 18px;
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+  margin-bottom: 10px;
+}
+
+button {
+  text-align: center;
+  padding: 15px;
+  font-size: 23px;
+
+  border-radius: 10px;
+  display: block;
+  margin: 0 auto;
+  border: 2px;
+  border-color: rgb(200, 132, 161);
+  background-color: rgb(227, 224, 187);
+  color: rgb(111, 19, 19);
+}
+button:hover {
+  background-color: rgb(216, 212, 142);
+  cursor: pointer;
+  color: rgba(22, 8, 2, 0.566);
+}
+h2 {
+  color: rgb(215, 215, 178);
+  font-size: 42px;
+  font-family: "Times New Roman", Times, serif;
+  text-align: left;
+  text-decoration: none;
+}
+h3 {
+  color: rgb(215, 218, 136);
+  font-size: 25px;
+  font-family: "Times New Roman", Times, serif;
+  text-align: left;
+  text-decoration: underline;
+}
+ul,
+ol {
+  color: rgb(202, 230, 202);
+  font-size: 20px;
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+  margin-bottom: 10px;
+}
+b {
+  color: rgb(224, 110, 110);
+}
