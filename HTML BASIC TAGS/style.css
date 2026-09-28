@@ -16,12 +16,13 @@ p {
   font-size: 18px;
   font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
   margin-bottom: 10px;
+  line-height: 23px;
 }
 
 button {
   text-align: center;
-  padding: 15px;
-  font-size: 23px;
+  padding: 10px;
+  font-size: 20px;
 
   border-radius: 10px;
   display: block;
@@ -30,6 +31,7 @@ button {
   border-color: rgb(200, 132, 161);
   background-color: rgb(227, 224, 187);
   color: rgb(111, 19, 19);
+  margin-top: 40px;
 }
 button:hover {
   background-color: rgb(216, 212, 142);
@@ -38,7 +40,7 @@ button:hover {
 }
 h2 {
   color: rgb(215, 215, 178);
-  font-size: 42px;
+  font-size: 35px;
   font-family: "Times New Roman", Times, serif;
   text-align: left;
   text-decoration: none;
@@ -50,18 +52,35 @@ h3 {
   text-align: left;
   text-decoration: underline;
 }
-ul,
-ol {
+ul {
   color: rgb(202, 230, 202);
   font-size: 20px;
   font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
   margin-bottom: 10px;
+  line-height: 30px;
+  margin-left: 10px;
 }
 b {
   color: rgb(224, 110, 110);
+  font-style: italic;
+}
+a {
+  text-decoration: none;
 }
 img {
   display: block;
   margin: 0 auto;
   padding-bottom: 30px;
+  border-radius: 10px;
+}
+
+ol {
+  color: rgb(244, 187, 157);
+  font-size: 22px;
+  font-family: monospace;
+  margin-bottom: 10px;
+  list-style: disc;
+  font-weight: bold;
+  line-height: 30px;
+  margin-left: 10px;
 }
