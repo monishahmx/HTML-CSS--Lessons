@@ -1,0 +1,30 @@
+/*TEXT PROPERTY IN CSS
+
+//font weight 
+//it sets the thickness of a text characters
+default is 400 and bold is 700
+
+*/
+
+h1 {
+  font-weight: 400;
+  text-decoration: underline rosybrown;
+  text-transform: uppercase;
+}
+p {
+  font-weight: 700;
+}
+
+
+ul{
+    list-style: circle ;
+}
+/* TEXT DECORATION 
+SETS DECORATIVE LINES ON TEXT 
+
+//LINE VAULES ARE LINE THROUGH,OVERLINE,UNDERLINE,NONE
+
+/FONT STYLE 
+SETS THE STYLE OF THR FONT IT HAS VAULES LIKE NORMAL,ITALIC,OBLIQUE,OBLIQUE 10 DEG
+
+//text - transformas

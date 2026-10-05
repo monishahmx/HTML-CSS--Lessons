@@ -1,0 +1,23 @@
+THE CSS GUIDENCE
+
+the font weight GUIDENCE
+
+//the heading should be 500 to 900 and other text 300-400
+
+---------------------------------------------------
+
+
+**TEXT DECORATION**
+
+//ALWAYS REMOVE UNDERLINE FROM THE ANCHOR TAGS AND VERY RARELY USE TEXT DECORATION
+
+----------------------------------------------------
+
+**FONT STYLE**
+//CAN SOMETIMES BE USED TO DRAW ATTENTION
+-------------------------------------------------
+
+**LIST STYLE GUIDENCE**
+//ALWAYS SET LIST SYLE TO NONE WHEN THEY ARE USED FOR STRUCTURAL PURPOSES
+
+------------------------------------------------------
