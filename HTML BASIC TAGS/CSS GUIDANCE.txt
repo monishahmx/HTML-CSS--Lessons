@@ -79,4 +79,10 @@ icons
 
  type selectors - it selcts the hmtl element 
 
- 
+------------------------------------------------------
+
+//SELECTORS GUIDENCE
+
+CLASSSES FOR COMPOENTS ARE DESINGNED TO BE COMBINED ON A SINGLE HTML ELEMENTS FOR A MODULAR APPROCH TO STYLYING
+
+.btn  .btn-primary 
