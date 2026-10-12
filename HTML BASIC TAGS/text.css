@@ -10,11 +10,15 @@ h1 {
   font-weight: 400;
   text-decoration: underline rosybrown;
   text-transform: uppercase;
+  color: #3280bf;
 }
 p {
   font-weight: 700;
 }
 
+h1,p {
+  text-align: center;
+}
 
 ul{
     list-style: circle ;

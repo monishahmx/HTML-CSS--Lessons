@@ -55,3 +55,28 @@ COLOR : #986479
 // HAVE ATLEAST 2 COLORS IN THE COLOR PLATTETE A PRIMARY COLOR AND A GREY COLOR
 
 //PRIMARY COLORS ARE USED TO HIGHLIGHT IMPORTANT PARTS OF THE PAGE AND TINTS AND THE SHADES CAN BE USED TO CREATE A CONTRASTS
+
+//primary colors are typically used in dominant elements such as buttons , backgrounds colors and more
+icons 
+
+//secondary is used to add the variety 
+
+//RESOURCES FOR THE CSS COLORS 
+ 1 OPEN COLORS 
+ 2 TAILWIND COLORS 
+ 3 COOLORS 
+ 4 TINTS AND SHADE GENERATOR 
+
+ -----------------------------------------------------
+
+ //RANGE OF CSS SELECTORS 
+
+ 1 BASIC SELECTORS 
+ 2 COMBINATOR SELECTORS 
+ 3 PSEUDO- CLASS SELECTORS 
+ 4 PSEUDO- ELEMENTS SELCTORS 
+
+
+ type selectors - it selcts the hmtl element 
+
+ 
