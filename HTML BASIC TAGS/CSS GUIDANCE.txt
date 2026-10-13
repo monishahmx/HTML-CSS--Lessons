@@ -115,3 +115,24 @@ STLYING BASED ON AN ELEMENT POSITIONS IN RELATION TO THE OTHER ELEMENTS
 li: first-child //targets the first child 
 li:last-child // targets the last child
 li:nth-child(n) trgets the child element based on their positions 
+
+------------------------------------------------------
+
+WHAT IS SPECIPICITY 
+
+IT DETERMINES THE PRIORITY OF A CSS RULE WHEN THE MULTIPLE RULES APPILED TO THE SAME ELEMENT  
+
+
+SPECIPICITY calculation 
+
+
+SELECTOR | ID           |CLASSES AND PUSEDO CLASS |  TYPE        |
+         |FIRST SPECIPIC| SECOND SPECIPIC         |THIRD SPECIPIC|
+         |              |                         |              |
+         |              |                         |              | 
+         |              |                         |              |
+         |              |                         |
+
+
+USE TYPE SELCTORS FOR FLOBAL STYLES AND CLASS SELCTORS TO OVERWRITE FOR SPECIFIC STLYING 
+
