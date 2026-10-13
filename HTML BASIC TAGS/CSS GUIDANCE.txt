@@ -86,3 +86,32 @@ icons
 CLASSSES FOR COMPOENTS ARE DESINGNED TO BE COMBINED ON A SINGLE HTML ELEMENTS FOR A MODULAR APPROCH TO STYLYING
 
 .btn  .btn-primary 
+
+------------------------------------------------------
+
+PSEUDO CLASSSES
+
+DEFINES STYLES FOR A SPECIPIC
+
+A KEYWORD WITH A COLON ADDED TO THE END OF THE SELECTOR 
+
+a : hover 
+
+state PSEUDO CLASSSES (imp)
+
+dynmaic styling based on user interation a commonly used for hyperlinks 
+
+a:link  a:visted a:hover a:active
+
+------------------------------------------------------
+STATE PUSEDO CLASSES GAUIDENCE  
+
+ITS IS BEST PRATICE TO STYLE THE PSEIUDO CLASSES OF ANCHOR TAHS INSTAED OD STYLING THE ANCHOR ELEMENTS
+-----------------------------------------------------
+
+CONDITIONAL PSUDEO CLASSES 
+STLYING BASED ON AN ELEMENT POSITIONS IN RELATION TO THE OTHER ELEMENTS 
+
+li: first-child //targets the first child 
+li:last-child // targets the last child
+li:nth-child(n) trgets the child element based on their positions 
